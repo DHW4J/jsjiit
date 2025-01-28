@@ -1,5 +1,3 @@
-# 🎓 JSJIIT - JIIT Web Portal Wrapper
-
 because manually checking attendance is destroying my mental health fr fr (and because i'm running out of "why did I even do that" moments)
 
 ## what even is this
